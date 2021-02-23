@@ -1,3 +1,3 @@
 InputString = ["h","e","l","l","o"]
-Output = InputString.reverse()
-print (InputString.reverse())
+Output = InputString[::-1]
+print (Output)
